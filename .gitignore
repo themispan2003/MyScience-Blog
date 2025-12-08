@@ -31,3 +31,7 @@ logs/
 # Generated directories
 coverage/
 dist/
+
+#Photos
+public/images
+public/uploads
