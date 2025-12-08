@@ -33,5 +33,6 @@ coverage/
 dist/
 
 #Photos
+public
 public/images
 public/uploads
