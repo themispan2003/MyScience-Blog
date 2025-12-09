@@ -57,7 +57,6 @@ export default function EditPost() {
         <h1 className="text-3xl font-bold mb-6 text-white">Επεξεργασία Άρθρου</h1>
 
         <form onSubmit={handleSubmit} className="space-y-6">
-          {/* Title */}
           <div>
             <label className="block text-zinc-300 mb-2 font-medium">Τίτλος</label>
             <input
@@ -68,7 +67,6 @@ export default function EditPost() {
             />
           </div>
 
-          {/* Content */}
           <div>
             <label className="block text-zinc-300 mb-2 font-medium">Κείμενο</label>
             <textarea
@@ -79,7 +77,6 @@ export default function EditPost() {
             />
           </div>
 
-          {/* Upload New Image */}
           <div className="p-4 border border-zinc-700 border-dashed rounded bg-zinc-800/50">
             <label className="block text-zinc-300 mb-2 font-medium">Αλλαγή εικόνας</label>
             <input
