@@ -1,8 +1,5 @@
 ## MyScience-Blog
 Full Stack Web Development: Web/Front-End Development(HTML,CSS,JavaScript), BackEnd(NodeJs, GoogleAuth, MongoDB, Formspree)
-
-## MyScience Blog
-
 Ένα σύγχρονο blog platform για επιστημονικά άρθρα, φτιαγμένο με Next.js, MongoDB και NextAuth.
 
 ## Features
